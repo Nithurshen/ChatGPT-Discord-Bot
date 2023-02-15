@@ -21,10 +21,13 @@ Step 1: (Setting up VS Code)
 
 -->Import all the items in the repository and rename the ".env.nit" file to ".env".
 
--->Open terminal and apply the following command:
-									
-     npm install discord.js dotenv openai
-     
+-->Open terminal and apply the following commands:
+
+    npm init --y
+				
+--------------------------------------
+
+    npm install discord.js dotenv openai
         
   Step 2: (Getting OpenAI's API Key)
   
