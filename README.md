@@ -54,7 +54,7 @@ Step 1: (Setting up VS Code)
   
   --> Add the bot to your server and create a text channel dedicated for the bot.
   
-  --> Right click the text channel and click "COPY ID" and then paste it in index.js at line 25 using VS Code, and save the file.
+  --> Right click the text channel and click "COPY ID" and then add it to the constant "BOT_CHANNEL" in index.js at line 25 using VS Code, and save the file.
   
   --> Now use the following command in the terminal to activate the bot:
   
