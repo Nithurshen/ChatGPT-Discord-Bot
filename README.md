@@ -17,16 +17,13 @@ To make your own bot follow this tutorial:
 
 Step 1: (Setting up VS Code)
 
-	-->Open VS Code and create a new folder.
-	
-	-->Import all the items in the repository and rename the ".env.nit" file to ".env".
-	
-	-->Open terminal and apply the following command:
-	
-									
+-->Open VS Code and create a new folder.
 
+-->Import all the items in the repository and rename the ".env.nit" file to ".env".
+
+-->Open terminal and apply the following command:
+									
      npm install discord.js dotenv openai
      
-     
-   
+        
   Step 2: (Getting OpenAI's API Key)
